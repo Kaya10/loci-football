@@ -1,2 +1,0 @@
-# loci-football
-Begin app
